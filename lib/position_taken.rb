@@ -1,4 +1,4 @@
 def position_taken?(board, index)
-  if board[index_number] != " "
+  if board[index] != " "
   end
 end
