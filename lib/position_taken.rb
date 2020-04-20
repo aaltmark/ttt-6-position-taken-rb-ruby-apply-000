@@ -1,4 +1,4 @@
-def position_taken? (board, index)
+def position_taken?(board, index)
   if board[index_number] != " "
   end
 end
